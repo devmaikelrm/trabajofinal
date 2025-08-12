@@ -2,16 +2,16 @@
 
 ## Aspectos Generales del Programa - Nivel 1
 
-Este documento describe los aspectos principales del programa "É, Mercado!", un proyecto diseñado para [breve descripción del propósito, por ejemplo, "gestionar un mercado en línea" o "aprender programación básica"]. A continuación, se detallan los elementos clave:
+Este documento describe los aspectos principales del programa "É, Mercado!", un proyecto diseñado para  "gestionar un mercado en línea" o "aprender programación básica". A continuación, se detallan los elementos clave:
 
 ### Introducción
-- El programa se basa en la creación de un sistema modular para [especificar objetivo, por ejemplo, "vender productos" o "practicar estructuras de control"].
-- Utiliza [mencionar tecnologías o lenguajes, si aplica, por ejemplo, "HTML, CSS y JavaScript"] para su desarrollo.
+- El programa se basa en la creación de un sistema modular para ["vender productos" o "practicar estructuras de control"].
+- Utiliza [tecnologías o lenguajes, "HTML, CSS y JavaScript"] para su desarrollo.
 
 ### Estructura del Programa
 - **Características principales**:
   - Desarrollo de una interfaz de usuario sencilla y funcional.
-  - Implementación de módulos para la gestión de [especificar, por ejemplo, "categorías y productos"].
+  - Implementación de módulos para la gestión de ["categorías y productos"].
   - Uso de buenas prácticas de codificación.
 
 - **Flujo de trabajo**:
@@ -29,7 +29,7 @@ Este documento describe los aspectos principales del programa "É, Mercado!", un
   - Organización de recursos en carpetas (`css/`, `img/`, `js/`, etc.).
 
 - **Implementación**:
-  - Desarrollo de la lógica para [especificar, por ejemplo, "mostrar productos" o "gestionar un carrito"].
+  - Desarrollo de la lógica para ["mostrar productos" o "gestionar un carrito"].
   - Integración de estilos y fuentes (`webfonts/`).
 
 - **Pruebas y entrega**:
